@@ -65,7 +65,7 @@ def kc_alert_nzhulina():
     @task
     def run_alerts_feed(chat=None):
         # непосредственно сама система алертов
-        chat_id = chat or 101509140
+        chat_id = chat or .....
         bot = telegram.Bot(token = '...')
         query = """
             SELECT 

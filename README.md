@@ -10,6 +10,8 @@ my projects outside of  work
 | [LTV analyse (cohort using)](https://github.com/NataliaZhulina/Pet-projects/blob/main/LTV%20analyse%20(cohort%20using).ipynb)                          | I calculated the user's current LTV using a cohort analysis .| Python |
 | [Alert System](https://github.com/NataliaZhulina/Pet-projects/blob/main/NZ_alert_report.py) | The system checks key metrics every 15 minutes, such as active users in the feed / messenger, views, likes, CTR, the number of messages sent, and in case of an abnormal deviation sends an alert to the telegram chat.| Python, SQL, Arflow, Telegram, GitLab |
 | [Time Series Forecasting Example](https://github.com/NataliaZhulina/Pet-projects/blob/main/Time%20Series%20Forecasting%20Example.ipynb) | The regs.csv table contains the number of user registrations in the system by month until July 2022. This is a Python script that predicts the number of registrations in August 2022.| Python (pandas, numpy, statsmodels, sklearn, matplotlib,datetime) |
+| [Function a migration matrix of delinquency by banks](https://github.com/NataliaZhulina/Pet-projects/blob/main/function_%20migration%20matrix_delinquency_by%20banks.ipynb) | It is necessary to write a function to build a migration matrix of delinquency by banks. The input function must accept "Name of the Bank", "Type of obligation", "Path to the database", i.e. the user of the function should be able to build a migration matrix for different banks and types of liabilities. At the output, the user should see the matrix unloaded onto a new sheet.| Python |
+
 
 
 
